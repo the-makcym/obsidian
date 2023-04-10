@@ -1,0 +1,19 @@
+{
+  "livePreview": false,
+  "showInlineTitle": true,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "defaultViewMode": "preview",
+  "readableLineLength": false,
+  "promptDelete": false,
+  "strictLineBreaks": false,
+  "showLineNumber": false,
+  "vimMode": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "6d28853a090294d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0bcc15727869741",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a31fe03ba41c9c2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "math/дискретка/Графы.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6bdd7bf2fe4ab917",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa61dc55055fa2cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64eb3cbf3534037d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4d2d6f82c3785458",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f4da08ec206da483",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 296.00384521484375,
+    "collapsed": true
+  },
+  "right": {
+    "id": "8109cd20fd17f817",
+    "type": "split",
+    "children": [
+      {
+        "id": "0fc2b208147f64f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad93d074bb206e21",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "42b29e3786da4f98",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "math/дискретка/Графы.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dde2a69c90a291a1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "math/дискретка/Графы.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "69908c5fa9db939e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "math/дискретка/Графы.md"
+              }
+            }
+          },
+          {
+            "id": "1bc45cc02fb19131",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "3c8fead78aafa288",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "db89b7d37e318fa4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "8609d064ae3f277c",
+            "type": "leaf",
+            "state": {
+              "type": "Saved Queries View",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 429.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "command-palette:Открыть палитру команд": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "a31fe03ba41c9c2a",
+  "lastOpenFiles": [
+    "math/аналит/кривые 2 порядка/Эллиптические.md",
+    "math/nриколы и прочее/Тригонометрия.md",
+    "prog/нейросетки/Нейросетка.md",
+    "prog/дегенеративные алгоритмы/ANTS.md",
+    "lang/eng/Nouns.md",
+    "lang/eng/Tenses.md",
+    "lang/eng/Phraseologisms.md",
+    "lang/eng/nouns.png",
+    "notes.md",
+    "math/матан/интегральное исчисление/Несобственные.md",
+    "math/матан/ряды/Степенные ряды.md",
+    "math/матан/ряды/Функциональные последовательности.md",
+    "math/матан/ряды/Функциональные ряды.md",
+    "math/матан/ряды/Числовые ряды.md",
+    "math/матан/(Не)четности функций.md",
+    "math/матан/гармонический анализ/Общая теория.md",
+    "math/матан/гармонический анализ/Разложения в ряд Фурье.md",
+    "math/дискретка/Графы.md",
+    "math/матан/Метрическое пространство.md",
+    "math/матан/Функциональные пространства.md",
+    "math/матан/интегральное исчисление/Определенный и неопределенный.md",
+    "math/матан/комплан/Комплексные фокусы.md",
+    "math/матан/nриколы и прочее/Матричная экспонента.md",
+    "math/диффуры/Системы ЛДУ с ПК.md",
+    "math/дискретка/Комбинаторика.md",
+    "math/аналит/Векторы в пространстве.md",
+    "math/линал/Матрицы.md",
+    "math/матан/гармонический анализ",
+    "math/матан/ряды"
+  ]
+}

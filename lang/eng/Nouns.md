@@ -1,0 +1,4 @@
+![[nouns.png|center]]
+
+---
+#eng 

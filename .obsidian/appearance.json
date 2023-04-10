@@ -1,0 +1,11 @@
+{
+  "accentColor": "",
+  "theme": "moonstone",
+  "baseFontSize": 19,
+  "showViewHeader": true,
+  "translucency": false,
+  "enabledCssSnippets": [
+    "img-aligning",
+    "table-aligning"
+  ]
+}
