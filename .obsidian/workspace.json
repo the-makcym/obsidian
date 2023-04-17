@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/дискретка/Графы.md",
+                "file": "math/дискретка/Комбинаторика.md",
                 "mode": "preview",
                 "source": true
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.00384521484375,
-    "collapsed": true
+    "width": 296.00384521484375
   },
   "right": {
     "id": "8109cd20fd17f817",
@@ -97,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "math/дискретка/Графы.md",
+                "file": "math/дискретка/Комбинаторика.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/дискретка/Графы.md",
+                "file": "math/дискретка/Комбинаторика.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "math/дискретка/Графы.md"
+                "file": "math/дискретка/Комбинаторика.md"
               }
             }
           },
@@ -180,6 +179,7 @@
   },
   "active": "a31fe03ba41c9c2a",
   "lastOpenFiles": [
+    "math/дискретка/Графы.md",
     "math/аналит/кривые 2 порядка/Эллиптические.md",
     "math/nриколы и прочее/Тригонометрия.md",
     "prog/нейросетки/Нейросетка.md",
@@ -197,7 +197,6 @@
     "math/матан/(Не)четности функций.md",
     "math/матан/гармонический анализ/Общая теория.md",
     "math/матан/гармонический анализ/Разложения в ряд Фурье.md",
-    "math/дискретка/Графы.md",
     "math/матан/Метрическое пространство.md",
     "math/матан/Функциональные пространства.md",
     "math/матан/интегральное исчисление/Определенный и неопределенный.md",
