@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f0bcc15727869741",
+        "id": "ba94291df2020ed4",
         "type": "tabs",
         "children": [
           {
-            "id": "a31fe03ba41c9c2a",
+            "id": "16e41dea507110db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/матан/ряды/Функциональные ряды.md",
+                "file": "math/дискретка/Графы.md",
                 "mode": "preview",
                 "source": true
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "math/матан/ряды/Функциональные ряды.md",
+                "file": "math/дискретка/Графы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/матан/ряды/Функциональные ряды.md",
+                "file": "math/дискретка/Графы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "math/матан/ряды/Функциональные ряды.md"
+                "file": "math/дискретка/Графы.md"
               }
             }
           },
@@ -176,8 +176,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a31fe03ba41c9c2a",
+  "active": "16e41dea507110db",
   "lastOpenFiles": [
+    "math/матан/ряды/Функциональные ряды.md",
     "math/матан/гармонический анализ/Общая теория.md",
     "math/матан/гармонический анализ/Разложения в ряд Фурье.md",
     "math/дискретка/Комбинаторика.md",
@@ -194,7 +195,6 @@
     "math/матан/интегральное исчисление/Несобственные.md",
     "math/матан/ряды/Степенные ряды.md",
     "math/матан/ряды/Функциональные последовательности.md",
-    "math/матан/ряды/Функциональные ряды.md",
     "math/матан/ряды/Числовые ряды.md",
     "math/матан/(Не)четности функций.md",
     "math/матан/Метрическое пространство.md",
