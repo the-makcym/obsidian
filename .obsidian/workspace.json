@@ -165,8 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 429.5,
-    "collapsed": true
+    "width": 429.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,7 +175,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "16e41dea507110db",
+  "active": "ad93d074bb206e21",
   "lastOpenFiles": [
     "math/матан/ряды/Функциональные последовательности.md",
     "math/матан/ряды/Функциональные ряды.md",
