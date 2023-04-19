@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/nриколы и прочее/Неравенства.md",
+                "file": "lang/eng/Tenses.md",
                 "mode": "preview",
                 "source": true
               }
             }
+          },
+          {
+            "id": "5ad4ffa8a98b45a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lang/eng/Conditionals.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "math/nриколы и прочее/Неравенства.md",
+                "file": "lang/eng/Conditionals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/nриколы и прочее/Неравенства.md",
+                "file": "lang/eng/Conditionals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "math/nриколы и прочее/Неравенства.md"
+                "file": "lang/eng/Conditionals.md"
               }
             }
           },
@@ -165,7 +178,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 429.5
+    "width": 429.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,8 +189,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ad93d074bb206e21",
+  "active": "5ad4ffa8a98b45a4",
   "lastOpenFiles": [
+    "lang/eng/Tenses.md",
+    "lang/eng/Conditionals.md",
+    "lang/eng/Phraseologisms.md",
+    "lang/eng/nouns.png",
+    "lang/eng/Nouns.md",
+    "math/nриколы и прочее/Неравенства.md",
     "math/матан/ряды/Функциональные последовательности.md",
     "math/матан/ряды/Функциональные ряды.md",
     "math/дискретка/Графы.md",
@@ -192,18 +212,12 @@
     "math/nриколы и прочее/Тригонометрия.md",
     "prog/нейросетки/Нейросетка.md",
     "prog/дегенеративные алгоритмы/ANTS.md",
-    "lang/eng/Nouns.md",
-    "lang/eng/Tenses.md",
-    "lang/eng/Phraseologisms.md",
-    "lang/eng/nouns.png",
     "notes.md",
     "math/матан/интегральное исчисление/Несобственные.md",
     "math/матан/ряды/Степенные ряды.md",
     "math/матан/ряды/Числовые ряды.md",
     "math/матан/Функциональные пространства.md",
     "math/матан/интегральное исчисление/Определенный и неопределенный.md",
-    "math/матан/комплан/Комплексные фокусы.md",
-    "math/матан/nриколы и прочее/Матричная экспонента.md",
     "math/матан/гармонический анализ",
     "math/матан/ряды"
   ]
