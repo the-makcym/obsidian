@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/дискретка/Графы.md",
+                "file": "math/матан/ряды/Функциональные последовательности.md",
                 "mode": "preview",
                 "source": true
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "math/дискретка/Графы.md",
+                "file": "math/матан/ряды/Функциональные последовательности.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/дискретка/Графы.md",
+                "file": "math/матан/ряды/Функциональные последовательности.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "math/дискретка/Графы.md"
+                "file": "math/матан/ряды/Функциональные последовательности.md"
               }
             }
           },
@@ -178,14 +178,14 @@
   },
   "active": "16e41dea507110db",
   "lastOpenFiles": [
+    "math/матан/ряды/Функциональные ряды.md",
+    "math/дискретка/Графы.md",
     "math/дискретка/Комбинаторика.md",
     "math/матан/Antipatterns.md",
     "math/матан/Метрическое пространство.md",
     "math/матан/Критерии Коши.md",
     "math/матан/(Не)четности функций.md",
     "math/матан/Замена координат.md",
-    "math/дискретка/Графы.md",
-    "math/матан/ряды/Функциональные ряды.md",
     "math/матан/гармонический анализ/Общая теория.md",
     "math/матан/гармонический анализ/Разложения в ряд Фурье.md",
     "math/аналит/кривые 2 порядка/Эллиптические.md",
