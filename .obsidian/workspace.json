@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/матан/ряды/Функциональные последовательности.md",
+                "file": "math/nриколы и прочее/Неравенства.md",
                 "mode": "preview",
                 "source": true
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.00384521484375,
-    "collapsed": true
+    "width": 296.00384521484375
   },
   "right": {
     "id": "8109cd20fd17f817",
@@ -97,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "math/матан/ряды/Функциональные последовательности.md",
+                "file": "math/nриколы и прочее/Неравенства.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/матан/ряды/Функциональные последовательности.md",
+                "file": "math/nриколы и прочее/Неравенства.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "math/матан/ряды/Функциональные последовательности.md"
+                "file": "math/nриколы и прочее/Неравенства.md"
               }
             }
           },
@@ -179,8 +178,8 @@
   },
   "active": "5ad4ffa8a98b45a4",
   "lastOpenFiles": [
-    "lang/eng/Tenses.md",
     "math/матан/ряды/Функциональные последовательности.md",
+    "lang/eng/Tenses.md",
     "lang/eng/Conditionals.md",
     "lang/eng/Phraseologisms.md",
     "lang/eng/nouns.png",
