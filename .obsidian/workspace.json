@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/дискретка/Графы.md",
+                "file": "math/диффуры/ЛДУ с ПК.md",
                 "mode": "preview",
                 "source": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "math/дискретка/Графы.md",
+                "file": "math/диффуры/ЛДУ с ПК.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/дискретка/Графы.md",
+                "file": "math/диффуры/ЛДУ с ПК.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "math/дискретка/Графы.md"
+                "file": "math/диффуры/ЛДУ с ПК.md"
               }
             }
           },
@@ -190,6 +190,14 @@
   },
   "active": "5ab677c7c48ec06e",
   "lastOpenFiles": [
+    "math/диффуры/В полных дифференциалах.md",
+    "math/диффуры/Системы ЛДУ с ПК.md",
+    "math/диффуры/ДУ первого порядка.md",
+    "math/диффуры/ДУ Рикатти.md",
+    "math/диффуры/ДУ Бернулли.md",
+    "math/диффуры/ЛДУ с ПК.md",
+    "math/диффуры/Понижение порядка.md",
+    "math/дискретка/Графы.md",
     "math/дискретка/Комбинаторика.md",
     "math/nриколы и прочее/Неравенства.md",
     "math/матан/ряды/Функциональные ряды.md",
@@ -199,7 +207,6 @@
     "lang/eng/Phraseologisms.md",
     "lang/eng/nouns.png",
     "lang/eng/Nouns.md",
-    "math/дискретка/Графы.md",
     "math/матан/Antipatterns.md",
     "math/матан/Метрическое пространство.md",
     "math/матан/Критерии Коши.md",
@@ -210,13 +217,6 @@
     "math/аналит/кривые 2 порядка/Эллиптические.md",
     "math/nриколы и прочее/Тригонометрия.md",
     "prog/нейросетки/Нейросетка.md",
-    "prog/дегенеративные алгоритмы/ANTS.md",
-    "notes.md",
-    "math/матан/интегральное исчисление/Несобственные.md",
-    "math/матан/ряды/Степенные ряды.md",
-    "math/матан/ряды/Числовые ряды.md",
-    "math/матан/Функциональные пространства.md",
-    "math/матан/интегральное исчисление/Определенный и неопределенный.md",
     "math/матан/гармонический анализ",
     "math/матан/ряды"
   ]
