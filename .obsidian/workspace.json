@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/диффуры/ЛДУ с ПК.md",
+                "file": "math/диффуры/ДУ первого порядка.md",
                 "mode": "preview",
                 "source": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "math/диффуры/ЛДУ с ПК.md",
+                "file": "math/диффуры/ДУ первого порядка.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/диффуры/ЛДУ с ПК.md",
+                "file": "math/диффуры/ДУ первого порядка.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "math/диффуры/ЛДУ с ПК.md"
+                "file": "math/диффуры/ДУ первого порядка.md"
               }
             }
           },
@@ -191,11 +191,11 @@
   "active": "5ab677c7c48ec06e",
   "lastOpenFiles": [
     "math/диффуры/В полных дифференциалах.md",
+    "math/диффуры/ЛДУ с ПК.md",
     "math/диффуры/Системы ЛДУ с ПК.md",
     "math/диффуры/ДУ первого порядка.md",
     "math/диффуры/ДУ Рикатти.md",
     "math/диффуры/ДУ Бернулли.md",
-    "math/диффуры/ЛДУ с ПК.md",
     "math/диффуры/Понижение порядка.md",
     "math/дискретка/Графы.md",
     "math/дискретка/Комбинаторика.md",
