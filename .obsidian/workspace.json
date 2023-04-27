@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ba94291df2020ed4",
+        "id": "9bd23edc509ae761",
         "type": "tabs",
         "children": [
           {
-            "id": "5ab677c7c48ec06e",
+            "id": "ed9d576bdfc4d2ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/диффуры/ДУ первого порядка.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "4a89b6ce5c1f033a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "math/матан/ряды/Функциональные последовательности.md",
+                "file": "math/дискретка/Графы.md",
                 "mode": "preview",
                 "source": true
               }
@@ -81,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.00384521484375
+    "width": 296.00384521484375,
+    "collapsed": true
   },
   "right": {
     "id": "8109cd20fd17f817",
@@ -108,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "math/диффуры/ДУ первого порядка.md",
+                "file": "math/дискретка/Графы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/диффуры/ДУ первого порядка.md",
+                "file": "math/дискретка/Графы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "math/диффуры/ДУ первого порядка.md"
+                "file": "math/дискретка/Графы.md"
               }
             }
           },
@@ -188,12 +177,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5ab677c7c48ec06e",
+  "active": "ed9d576bdfc4d2ba",
   "lastOpenFiles": [
+    "math/матан/ряды/Функциональные последовательности.md",
+    "math/диффуры/ДУ первого порядка.md",
     "math/диффуры/В полных дифференциалах.md",
     "math/диффуры/ЛДУ с ПК.md",
     "math/диффуры/Системы ЛДУ с ПК.md",
-    "math/диффуры/ДУ первого порядка.md",
     "math/диффуры/ДУ Рикатти.md",
     "math/диффуры/ДУ Бернулли.md",
     "math/диффуры/Понижение порядка.md",
@@ -201,7 +191,6 @@
     "math/дискретка/Комбинаторика.md",
     "math/nриколы и прочее/Неравенства.md",
     "math/матан/ряды/Функциональные ряды.md",
-    "math/матан/ряды/Функциональные последовательности.md",
     "lang/eng/Tenses.md",
     "lang/eng/Conditionals.md",
     "lang/eng/Phraseologisms.md",
