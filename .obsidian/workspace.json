@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/дискретка/Графы.md",
+                "file": "prog/README.md",
                 "mode": "preview",
                 "source": true
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.00384521484375,
-    "collapsed": true
+    "width": 296.00384521484375
   },
   "right": {
     "id": "8109cd20fd17f817",
@@ -97,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "math/дискретка/Графы.md",
+                "file": "prog/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/дискретка/Графы.md",
+                "file": "prog/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "math/дискретка/Графы.md"
+                "file": "prog/README.md"
               }
             }
           },
@@ -179,6 +178,7 @@
   },
   "active": "ed9d576bdfc4d2ba",
   "lastOpenFiles": [
+    "math/дискретка/Графы.md",
     "math/матан/ряды/Функциональные последовательности.md",
     "math/диффуры/ДУ первого порядка.md",
     "math/диффуры/В полных дифференциалах.md",
@@ -187,7 +187,6 @@
     "math/диффуры/ДУ Рикатти.md",
     "math/диффуры/ДУ Бернулли.md",
     "math/диффуры/Понижение порядка.md",
-    "math/дискретка/Графы.md",
     "math/дискретка/Комбинаторика.md",
     "math/nриколы и прочее/Неравенства.md",
     "math/матан/ряды/Функциональные ряды.md",
