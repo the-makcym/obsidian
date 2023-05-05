@@ -97,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "prog/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +108,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "prog/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,9 +123,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "prog/README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -162,7 +158,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -177,10 +174,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ed9d576bdfc4d2ba",
+  "active": "64eb3cbf3534037d",
   "lastOpenFiles": [
-    "Без названия.md",
     "prog/README.md",
+    "Без названия.md",
+    "math/nриколы и прочее/Контрольная работа 3 по численному интегрированию.md",
     "math/дискретка/Графы.md",
     "math/матан/ряды/Функциональные последовательности.md",
     "math/диффуры/ДУ первого порядка.md",
@@ -205,7 +203,6 @@
     "math/матан/Замена координат.md",
     "math/матан/гармонический анализ/Общая теория.md",
     "math/матан/гармонический анализ/Разложения в ряд Фурье.md",
-    "math/аналит/кривые 2 порядка/Эллиптические.md",
     "math/матан/гармонический анализ",
     "math/матан/ряды"
   ]
