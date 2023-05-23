@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prog/README.md",
+                "file": "math/диффуры/ЛДУ с ПК.md",
                 "mode": "preview",
                 "source": true
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.00384521484375,
-    "collapsed": true
+    "width": 296.00384521484375
   },
   "right": {
     "id": "8109cd20fd17f817",
@@ -105,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "prog/README.md",
+                "file": "math/диффуры/ЛДУ с ПК.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "prog/README.md",
+                "file": "math/диффуры/ЛДУ с ПК.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "prog/README.md"
+                "file": "math/диффуры/ЛДУ с ПК.md"
               }
             }
           },
@@ -188,18 +187,18 @@
   },
   "active": "ed9d576bdfc4d2ba",
   "lastOpenFiles": [
+    "math/диффуры/ДУ Рикатти.md",
+    "math/диффуры/ДУ первого порядка.md",
+    "math/диффуры/ДУ Бернулли.md",
+    "math/диффуры/В полных дифференциалах.md",
+    "math/диффуры/Понижение порядка.md",
+    "math/диффуры/ЛДУ с ПК.md",
+    "math/диффуры/Системы ЛДУ с ПК.md",
     "prog/README.md",
     "Без названия.md",
     "math/nриколы и прочее/Контрольная работа 3 по численному интегрированию.md",
     "math/дискретка/Графы.md",
     "math/матан/ряды/Функциональные последовательности.md",
-    "math/диффуры/ДУ первого порядка.md",
-    "math/диффуры/В полных дифференциалах.md",
-    "math/диффуры/ЛДУ с ПК.md",
-    "math/диффуры/Системы ЛДУ с ПК.md",
-    "math/диффуры/ДУ Рикатти.md",
-    "math/диффуры/ДУ Бернулли.md",
-    "math/диффуры/Понижение порядка.md",
     "math/дискретка/Комбинаторика.md",
     "math/nриколы и прочее/Неравенства.md",
     "math/матан/ряды/Функциональные ряды.md",
