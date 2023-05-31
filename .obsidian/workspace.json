@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/матан/nриколы и прочее/Матричная экспонента.md",
-                "mode": "preview",
+                "file": "lang/eng/reading/Glossary.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.00384521484375
+    "width": 296.00384521484375,
+    "collapsed": true
   },
   "right": {
     "id": "8109cd20fd17f817",
@@ -104,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "math/матан/nриколы и прочее/Матричная экспонента.md",
+                "file": "lang/eng/reading/Glossary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/матан/nриколы и прочее/Матричная экспонента.md",
+                "file": "lang/eng/reading/Glossary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "math/матан/nриколы и прочее/Матричная экспонента.md"
+                "file": "lang/eng/reading/Glossary.md"
               }
             }
           },
@@ -187,6 +188,10 @@
   },
   "active": "c3649ed0073d9726",
   "lastOpenFiles": [
+    "lang/eng/reading/Overview.md",
+    "lang/eng/reading/Glossary.md",
+    "lang/eng/reading",
+    "math/матан/nриколы и прочее/Матричная экспонента.md",
     "math/диффуры/Системы ЛДУ с ПК.md",
     "math/диффуры/Понижение порядка.md",
     "math/диффуры/ДУ Бернулли.md",
@@ -210,10 +215,6 @@
     "lang/eng/Conditionals.md",
     "lang/eng/Phraseologisms.md",
     "lang/eng/nouns.png",
-    "lang/eng/Nouns.md",
-    "math/матан/Antipatterns.md",
-    "math/матан/Метрическое пространство.md",
-    "math/матан/Критерии Коши.md",
     "math/матан/гармонический анализ",
     "math/матан/ряды"
   ]
