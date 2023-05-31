@@ -1,16 +1,20 @@
-- **Macro**
-- **Configuration file**
-- **Scope**
-- **Reference**
-- **Enumeration**
-- **Crate**
-- **Pattern matching**
-- **Type inference**
-- **Mutabilty**
-- **Variables shadowing**
+- **Mutabilty** - property of variable corresponding to whether it can be mutated after assignment or not
+- **Type inference** - Rust compiler feature that allows to omit type annotations in some cases when compiler can infer them unambiguously
+- **Variable scope** - block of code where particular variable exists and therefore can be accessed there
+- **Variables shadowing** - Rust compiler feature that allows to use variable name which is already occupied at the same variable scope
+- **Ownership** - set of rules, that must be followed to make Rust program compiled and to ensure memory safety. Ownership demands one value is owned by only one variable and no other way around exists
+- **Reference** 
+- **Memory safety**
+- **Dangling reference**
+- **Reference's lifetime specifier**
+- **Slice**
 - **Scalar data type**
 - **Compound data type**
+- **Structure**
+- **Enumeration**
+- **Pattern matching**
 - **Statement**
 - **Expression**
 - **Loop labels**
-- 
+- **Macro**
+- **Crate**
