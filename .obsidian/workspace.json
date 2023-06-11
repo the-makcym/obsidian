@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a304ef493890725d",
+        "id": "b0659284002b9aa3",
         "type": "tabs",
         "children": [
           {
-            "id": "c3649ed0073d9726",
+            "id": "1ffdeb9eab65f920",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lang/eng/reading/Glossary.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -105,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lang/eng/reading/Glossary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +112,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lang/eng/reading/Glossary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "lang/eng/reading/Glossary.md"
-              }
+              "state": {}
             }
           },
           {
@@ -186,24 +178,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c3649ed0073d9726",
+  "active": "1ffdeb9eab65f920",
   "lastOpenFiles": [
-    "lang/eng/reading/Overview.md",
-    "lang/eng/reading/Glossary.md",
-    "lang/eng/reading",
-    "math/матан/nриколы и прочее/Матричная экспонента.md",
+    "math/линал/Жорданов базис.md",
     "math/диффуры/Системы ЛДУ с ПК.md",
+    "math/матан/nриколы и прочее/Квазимногочлены.md",
+    "math/матан/nриколы и прочее/Матричная экспонента.md",
     "math/диффуры/Понижение порядка.md",
+    "math/диффуры/ЛДУ с ПК.md",
+    "math/диффуры/ДУ Рикатти.md",
     "math/диффуры/ДУ Бернулли.md",
     "math/диффуры/ДУ первого порядка.md",
-    "math/диффуры/ДУ Рикатти.md",
-    "math/диффуры/ЛДУ с ПК.md",
+    "math/диффуры/В полных дифференциалах.md",
+    "lang/eng/reading/Glossary.md",
+    "lang/eng/reading/Overview.md",
+    "lang/eng/reading",
     "prog/дегенеративные алгоритмы/ANTS.md",
     "math/nриколы и прочее/Некоторые утверждения.md",
     "math/nриколы и прочее/Неравенства.md",
     "math/матан/векторные поля/Соленоидальные поля.md",
     "math/матан/векторные поля/Векторные поля.md",
-    "math/диффуры/В полных дифференциалах.md",
     "prog/README.md",
     "Без названия.md",
     "math/nриколы и прочее/Контрольная работа 3 по численному интегрированию.md",
@@ -213,7 +207,6 @@
     "math/матан/ряды/Функциональные ряды.md",
     "lang/eng/Tenses.md",
     "lang/eng/Conditionals.md",
-    "lang/eng/Phraseologisms.md",
     "lang/eng/nouns.png",
     "math/матан/гармонический анализ",
     "math/матан/ряды"
