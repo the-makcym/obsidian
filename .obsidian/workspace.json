@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b0659284002b9aa3",
+        "id": "de56a59a3336392f",
         "type": "tabs",
         "children": [
           {
-            "id": "1ffdeb9eab65f920",
+            "id": "bb7fe5e03b46fa60",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "math/диффуры/ДУ первого порядка.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -73,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.00384521484375,
-    "collapsed": true
+    "width": 296.00384521484375
   },
   "right": {
     "id": "8109cd20fd17f817",
@@ -101,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "math/диффуры/ДУ первого порядка.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,6 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "math/диффуры/ДУ первого порядка.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "math/диффуры/ДУ первого порядка.md"
+              }
             }
           },
           {
@@ -178,8 +185,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1ffdeb9eab65f920",
+  "active": "bb7fe5e03b46fa60",
   "lastOpenFiles": [
+    "math/матан/интегральное исчисление/Определенный и неопределенный.md",
     "math/линал/Жорданов базис.md",
     "math/диффуры/Системы ЛДУ с ПК.md",
     "math/матан/nриколы и прочее/Квазимногочлены.md",
@@ -206,7 +214,6 @@
     "math/дискретка/Комбинаторика.md",
     "math/матан/ряды/Функциональные ряды.md",
     "lang/eng/Tenses.md",
-    "lang/eng/Conditionals.md",
     "lang/eng/nouns.png",
     "math/матан/гармонический анализ",
     "math/матан/ряды"
