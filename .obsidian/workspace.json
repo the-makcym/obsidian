@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/диффуры/ЛДУ с ПК.md",
+                "file": "math/диффуры/ДУ первого порядка.md",
                 "mode": "preview",
                 "source": true
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "math/диффуры/ЛДУ с ПК.md",
+                "file": "math/диффуры/ДУ первого порядка.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/диффуры/ЛДУ с ПК.md",
+                "file": "math/диффуры/ДУ первого порядка.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "math/диффуры/ЛДУ с ПК.md"
+                "file": "math/диффуры/ДУ первого порядка.md"
               }
             }
           },
@@ -170,12 +170,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 429.5,
-    "collapsed": true
+    "width": 429.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,9 +186,9 @@
   },
   "active": "bb7fe5e03b46fa60",
   "lastOpenFiles": [
+    "math/диффуры/ЛДУ с ПК.md",
     "math/матан/комплан/Комплексные фокусы.md",
     "math/nриколы и прочее/Некоторые утверждения.md",
-    "math/диффуры/ЛДУ с ПК.md",
     "math/диффуры/ДУ первого порядка.md",
     "math/матан/интегральное исчисление/Определенный и неопределенный.md",
     "math/линал/Жорданов базис.md",
