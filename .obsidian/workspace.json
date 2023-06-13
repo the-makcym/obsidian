@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/диффуры/ДУ первого порядка.md",
+                "file": "math/матан/nриколы и прочее/Матричная экспонента.md",
                 "mode": "preview",
                 "source": true
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "math/диффуры/ДУ первого порядка.md",
+                "file": "math/матан/nриколы и прочее/Матричная экспонента.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/диффуры/ДУ первого порядка.md",
+                "file": "math/матан/nриколы и прочее/Матричная экспонента.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "math/диффуры/ДУ первого порядка.md"
+                "file": "math/матан/nриколы и прочее/Матричная экспонента.md"
               }
             }
           },
@@ -174,7 +174,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 429.5
+    "width": 429.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,19 +187,19 @@
   },
   "active": "bb7fe5e03b46fa60",
   "lastOpenFiles": [
-    "math/диффуры/ЛДУ с ПК.md",
-    "math/матан/комплан/Комплексные фокусы.md",
-    "math/nриколы и прочее/Некоторые утверждения.md",
-    "math/диффуры/ДУ первого порядка.md",
-    "math/матан/интегральное исчисление/Определенный и неопределенный.md",
-    "math/линал/Жорданов базис.md",
     "math/диффуры/Системы ЛДУ с ПК.md",
-    "math/матан/nриколы и прочее/Квазимногочлены.md",
-    "math/матан/nриколы и прочее/Матричная экспонента.md",
     "math/диффуры/Понижение порядка.md",
+    "math/диффуры/ЛДУ с ПК.md",
     "math/диффуры/ДУ Рикатти.md",
+    "math/диффуры/ДУ первого порядка.md",
     "math/диффуры/ДУ Бернулли.md",
     "math/диффуры/В полных дифференциалах.md",
+    "math/матан/комплан/Комплексные фокусы.md",
+    "math/nриколы и прочее/Некоторые утверждения.md",
+    "math/матан/интегральное исчисление/Определенный и неопределенный.md",
+    "math/линал/Жорданов базис.md",
+    "math/матан/nриколы и прочее/Квазимногочлены.md",
+    "math/матан/nриколы и прочее/Матричная экспонента.md",
     "lang/eng/reading/Glossary.md",
     "lang/eng/reading/Overview.md",
     "lang/eng/reading",
