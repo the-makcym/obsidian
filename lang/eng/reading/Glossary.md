@@ -1,21 +1,37 @@
-- **Mutabilty** - property of variable corresponding to whether it can be mutated after assignment or not
-- **Type inference** - Rust compiler feature that allows to omit type annotations in some cases when compiler can infer them unambiguously
-- **Variable scope** - block of code where particular variable exists and therefore can be accessed there
-- **Variables shadowing** - Rust compiler feature that allows to use variable name which is already occupied at the same variable scope
-- **Reference** - address in memory that is guaranteed to point to existing and valid data
-- **Dangling pointer** - address in memory which is supposed to contain some valuable data but it doesn't, for instance if the data was dropped
-- **Memory safety** - state of being protected from various vulnerabilities related to accessing to memory like dangling pointers or indexing out of bounds
-- **Ownership** - set of rules, that must be followed to make Rust program compiled and to ensure memory safety. Ownership demands one value is owned by only one variable and no other way around exists
-- **Reference lifetime** - interval in overall program running time while reference is valid, i.e. it points to some valuable data
-- **Reference lifetime specifier** - such feature of Rust that helps compiler to ensure memory safety through requiring programmer to specify how different reference lifetimes correlate
-- **Slice** - special kind of reference which points to contigious sequence of elements in a collection rather than to the whole collection 
-- **Scalar data type** - such data type that represents a primitive single value like an integer number, floating-point number or character
-- **Compound data type** - such data type that combines several scalar data type instances to represent more complex entities  
-- **Structure** - custom data type that packages meaningful set of values with predefined names
-- **Enumeration** - custom data type that allows to enumerate possible variants of values and pick one of them at a time
-- **Pattern matching** - the way of handling enumeration variants when programmer must exhaustively define the way of handling each possible variant 
-- **Statement** - instruction performs some action and does not return any value
-- **Expression** - like a statement it's instruction performs some action yet unlike a statement it's evaluated to some resultant value that should be handled
-- **Loop labels** - Rust feature that allows giving loops names so it's possible to control loop execution from within it
-- **Macro** - special kind of function that unlike usual functions evaluates at compile time and produces not a value but a code that can be further compiled
-- **Crate** - smallest amount of code that the Rust compiler considers at a time 
+- **==Mutabilty==** (изменяемость) - property of variable corresponding to whether it can be mutated after assignment or not.
+	- *But mutability can be very useful, and can make code more convenient to write.*
+- **==Type inference==** (выведение типов) - Rust compiler feature that allows to omit type annotations in some cases when compiler can infer them unambiguously.
+	- *Rust has a strong, static type system. However, it also has type inference.*
+- **==Variable scope==** (область видимости переменной) - block of code where particular variable exists and therefore can be accessed there.
+	- *The variable is valid from the point at which it’s declared until the end of the current scope.*
+- **==Variables shadowing==** (затенение переменных) - Rust compiler feature that allows to use variable name which is already occupied at the same variable scope.
+	- *Shadowing is different from marking a variable as `mut` because we’ll get a compile-time error if we accidentally try to reassign to this variable without using the `let` keyword.*
+- **==Reference==** (ссылка) - address in memory that is guaranteed to point to existing and valid data.
+	- *A reference is like a pointer in that it’s an address we can follow to access the data stored at that address.*
+- **==Dangling pointer==** (висячий указатель) - address in memory which is supposed to contain some valuable data but it doesn't, for instance if the data was dropped.
+	- *It’s easy to erroneously create a dangling pointer - a pointer that references a location in memory that may have been given to someone else.*
+- **==Memory safety==** (безопасность памяти) - state of being protected from various vulnerabilities related to accessing to memory like dangling pointers or indexing out of bounds.
+	- *It enables Rust to make memory safety guarantees without needing a garbage collector.*
+- **==Ownership==** (владение) - set of rules, that must be followed to make Rust program compiled and to ensure memory safety. Ownership demands one value is owned by only one variable and no other way around exists.
+	- *None of the features of ownership will slow down your program while it’s running.*
+- **==Reference lifetime==** (время жизни ссылки) - interval in overall program running time while reference is valid, i.e. it points to some valuable data.
+	- *Rather than ensuring that a type has the behavior we want, lifetimes ensure that references are valid as long as we need them to be.*
+- **==Reference lifetime specifier==** (указатель времени жизни ссылки) - such feature of Rust that helps compiler to ensure memory safety through requiring programmer to specify how different reference lifetimes correlate.
+	- 
+- **==Slice==** (срез) - special kind of reference which points to contigious sequence of elements in a collection rather than to the whole collection.
+	- *Internally, the slice data structure stores the starting position and the length of the slice*
+- **==Scalar data type==** (скалярный тип данных) - such data type that represents a primitive single value like an integer number, floating-point number or character.
+	- *A scalar type represents a single value.*
+- **==Compound data type==** (составной тип данных) - such data type that combines several scalar data type instances to represent more complex entities.
+	- *Rust has two primitive compound types: tuples and arrays.*
+- **==Structure==** (структура) - custom data type that packages meaningful set of values with predefined names.
+	- *A struct, or structure, is a custom data type that lets you package together and name multiple related values that make up a meaningful group.*
+- **==Enumeration==** (перечисление) - custom data type that allows to enumerate possible variants of values and pick one of them at a time.
+	- *We can enumerate all possible variants, which is where enumeration gets its name*
+- **==Pattern matching==** (сопоставление по шаблону) - the way of handling enumeration variants when programmer must exhaustively define the way of handling each possible variant.
+	- 
+- **==Statement==** (оператор) - instruction performs some action and does not return any value
+- **==Expression==** (выражение) - like a statement it's instruction performs some action yet unlike a statement it's evaluated to some resultant value that should be handled
+- **==Loop labels==** (метки циклов) - Rust feature that allows giving loops names so it's possible to control loop execution from within it
+- **==Macro==** (макрос) - special kind of function that unlike usual functions evaluates at compile time and produces not a value but a code that can be further compiled
+- **==Crate==** (крейт) - smallest amount of code that the Rust compiler considers at a time 
