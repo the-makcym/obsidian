@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "de56a59a3336392f",
+        "id": "706a053ac50a525f",
         "type": "tabs",
         "children": [
           {
-            "id": "bb7fe5e03b46fa60",
+            "id": "f859d3770d5be1ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lang/eng/reading/Glossary.md",
+                "file": "lang/eng/reading/Overview.md",
                 "mode": "source",
                 "source": true
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lang/eng/reading/Glossary.md",
+                "file": "lang/eng/reading/Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lang/eng/reading/Glossary.md",
+                "file": "lang/eng/reading/Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lang/eng/reading/Glossary.md"
+                "file": "lang/eng/reading/Overview.md"
               }
             }
           },
@@ -186,9 +186,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bb7fe5e03b46fa60",
+  "active": "f859d3770d5be1ca",
   "lastOpenFiles": [
+    "Без названия.md",
     "lang/eng/reading/Overview.md",
+    "lang/eng/reading/Без названия.md",
     "lang/eng/reading/Glossary.md",
     "prog/дегенеративные алгоритмы/ANTS.md",
     "math/матан/дифференциальное исчисление/Формула Тейлора.md",
@@ -213,8 +215,6 @@
     "math/матан/векторные поля/Соленоидальные поля.md",
     "math/матан/векторные поля/Векторные поля.md",
     "prog/README.md",
-    "Без названия.md",
-    "math/nриколы и прочее/Контрольная работа 3 по численному интегрированию.md",
     "lang/eng/nouns.png",
     "math/матан/гармонический анализ",
     "math/матан/ряды"

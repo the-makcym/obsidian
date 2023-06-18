@@ -16,22 +16,15 @@
 	- *None of the features of ownership will slow down your program while it’s running.*
 - **==Reference lifetime==** (время жизни ссылки) - interval in overall program running time while reference is valid, i.e. it points to some valuable data.
 	- *Rather than ensuring that a type has the behavior we want, lifetimes ensure that references are valid as long as we need them to be.*
-- **==Reference lifetime specifier==** (указатель времени жизни ссылки) - such feature of Rust that helps compiler to ensure memory safety through requiring programmer to specify how different reference lifetimes correlate.
-	- 
 - **==Slice==** (срез) - special kind of reference which points to contigious sequence of elements in a collection rather than to the whole collection.
 	- *Internally, the slice data structure stores the starting position and the length of the slice*
 - **==Scalar data type==** (скалярный тип данных) - such data type that represents a primitive single value like an integer number, floating-point number or character.
 	- *A scalar type represents a single value.*
 - **==Compound data type==** (составной тип данных) - such data type that combines several scalar data type instances to represent more complex entities.
 	- *Rust has two primitive compound types: tuples and arrays.*
-- **==Structure==** (структура) - custom data type that packages meaningful set of values with predefined names.
-	- *A struct, or structure, is a custom data type that lets you package together and name multiple related values that make up a meaningful group.*
-- **==Enumeration==** (перечисление) - custom data type that allows to enumerate possible variants of values and pick one of them at a time.
-	- *We can enumerate all possible variants, which is where enumeration gets its name*
-- **==Pattern matching==** (сопоставление по шаблону) - the way of handling enumeration variants when programmer must exhaustively define the way of handling each possible variant.
-	- 
-- **==Statement==** (оператор) - instruction performs some action and does not return any value
-- **==Expression==** (выражение) - like a statement it's instruction performs some action yet unlike a statement it's evaluated to some resultant value that should be handled
-- **==Loop labels==** (метки циклов) - Rust feature that allows giving loops names so it's possible to control loop execution from within it
-- **==Macro==** (макрос) - special kind of function that unlike usual functions evaluates at compile time and produces not a value but a code that can be further compiled
-- **==Crate==** (крейт) - smallest amount of code that the Rust compiler considers at a time 
+- **==Statement==** (оператор) - instruction performs some action and does not return any value.
+	- *Function definitions are also statements.*
+- **==Expression==** (выражение) - like a statement it's instruction performs some action yet unlike a statement it's evaluated to some resultant value that should be handled.
+	- *Expressions evaluate to a value and make up most of the rest of the code that you’ll write in Rust.*
+- **==Loop labels==** (метки циклов) - Rust feature that allows giving loops names so it's possible to control loop execution from within it.
+	- *Loop labels must begin with a single quote.*
