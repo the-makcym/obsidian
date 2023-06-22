@@ -78,8 +78,23 @@
   "workspace:goto-tab-7": [],
   "workspace:goto-tab-8": [],
   "workspace:goto-last-tab": [],
-  "obsidian-editor-shortcuts:insertLineBelow": [],
-  "obsidian-editor-shortcuts:insertLineAbove": [],
+  "obsidian-editor-shortcuts:insertLineBelow": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Enter"
+    }
+  ],
+  "obsidian-editor-shortcuts:insertLineAbove": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Enter"
+    }
+  ],
   "quick-latex:addMatrixBlock": [
     {
       "modifiers": [
@@ -382,5 +397,6 @@
       "key": "ArrowLeft"
     }
   ],
-  "app:go-back": []
+  "app:go-back": [],
+  "editor:open-link-in-new-leaf": []
 }

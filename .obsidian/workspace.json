@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/матан/Метрическое пространство.md",
+                "file": "math/диффуры/Задача Коши.md",
                 "mode": "preview",
                 "source": true
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.00384521484375
+    "width": 296.00384521484375,
+    "collapsed": true
   },
   "right": {
     "id": "8109cd20fd17f817",
@@ -104,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "math/матан/Метрическое пространство.md",
+                "file": "math/диффуры/Задача Коши.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/матан/Метрическое пространство.md",
+                "file": "math/диффуры/Задача Коши.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "math/матан/Метрическое пространство.md"
+                "file": "math/диффуры/Задача Коши.md"
               }
             }
           },
@@ -187,6 +188,8 @@
   },
   "active": "34587abed062dcce",
   "lastOpenFiles": [
+    "math/матан/Метрическое пространство.md",
+    "math/диффуры/Задача Коши.md",
     "math/nриколы и прочее/Неравенства.md",
     "math/диффуры/Приближенные.md",
     "Без названия.md",
@@ -212,8 +215,6 @@
     "math/линал/Жорданов базис.md",
     "math/матан/nриколы и прочее/Квазимногочлены.md",
     "lang/eng/reading",
-    "math/матан/векторные поля/Соленоидальные поля.md",
-    "math/матан/векторные поля/Векторные поля.md",
     "lang/eng/nouns.png",
     "math/матан/гармонический анализ",
     "math/матан/ряды"
