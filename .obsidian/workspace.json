@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/диффуры/ДУ первого порядка.md",
+                "file": "math/диффуры/Понижение порядка.md",
                 "mode": "preview",
                 "source": true
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "math/диффуры/ДУ первого порядка.md",
+                "file": "math/диффуры/Понижение порядка.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/диффуры/ДУ первого порядка.md",
+                "file": "math/диффуры/Понижение порядка.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "math/диффуры/ДУ первого порядка.md"
+                "file": "math/диффуры/Понижение порядка.md"
               }
             }
           },
@@ -187,13 +187,13 @@
   },
   "active": "34587abed062dcce",
   "lastOpenFiles": [
+    "math/диффуры/Системы ЛДУ с ПК.md",
+    "math/диффуры/ДУ Рикатти.md",
+    "math/диффуры/ДУ Бернулли.md",
+    "math/диффуры/ДУ первого порядка.md",
     "math/диффуры/ЛДУ с ПК.md",
     "math/диффуры/Задача Коши.md",
-    "math/диффуры/ДУ Рикатти.md",
-    "math/диффуры/ДУ первого порядка.md",
-    "math/диффуры/ДУ Бернулли.md",
     "math/диффуры/В полных дифференциалах.md",
-    "math/диффуры/Системы ЛДУ с ПК.md",
     "math/диффуры/Понижение порядка.md",
     "math/матан/Метрическое пространство.md",
     "math/nриколы и прочее/Неравенства.md",
