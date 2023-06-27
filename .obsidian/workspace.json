@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/матан/ряды/Функциональные ряды.md",
+                "file": "math/диффуры/ДУ первого порядка.md",
                 "mode": "preview",
                 "source": true
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "math/матан/ряды/Функциональные ряды.md",
+                "file": "math/диффуры/ДУ первого порядка.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/матан/ряды/Функциональные ряды.md",
+                "file": "math/диффуры/ДУ первого порядка.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "math/матан/ряды/Функциональные ряды.md"
+                "file": "math/диффуры/ДУ первого порядка.md"
               }
             }
           },
@@ -187,6 +187,7 @@
   },
   "active": "34587abed062dcce",
   "lastOpenFiles": [
+    "math/матан/ряды/Функциональные ряды.md",
     "math/диффуры/ДУ первого порядка.md",
     "math/диффуры/ДУ Бернулли.md",
     "math/диффуры/В полных дифференциалах.md",
@@ -195,7 +196,6 @@
     "lang/eng/Nouns.md",
     "math/матан/кривые/Кривые.md",
     "math/матан/комплан/Комплексные фокусы.md",
-    "math/матан/ряды/Функциональные ряды.md",
     "math/дискретка/Графы.md",
     "lang/eng/Conditionals.md",
     "lang/eng/nouns.png",
