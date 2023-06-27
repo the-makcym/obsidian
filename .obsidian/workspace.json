@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/диффуры/ДУ первого порядка.md",
+                "file": "math/матан/ряды/Функциональные ряды.md",
                 "mode": "preview",
                 "source": true
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "math/диффуры/ДУ первого порядка.md",
+                "file": "math/матан/ряды/Функциональные ряды.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/диффуры/ДУ первого порядка.md",
+                "file": "math/матан/ряды/Функциональные ряды.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "math/диффуры/ДУ первого порядка.md"
+                "file": "math/матан/ряды/Функциональные ряды.md"
               }
             }
           },
@@ -187,6 +187,7 @@
   },
   "active": "34587abed062dcce",
   "lastOpenFiles": [
+    "math/диффуры/ДУ первого порядка.md",
     "math/диффуры/ДУ Бернулли.md",
     "math/диффуры/В полных дифференциалах.md",
     "math/матан/ряды/Степенные ряды.md",
@@ -208,7 +209,6 @@
     "math/диффуры/Antipatterns.md",
     "math/диффуры/ДУ Рикатти.md",
     "math/диффуры/Системы ЛДУ с ПК.md",
-    "math/диффуры/ДУ первого порядка.md",
     "math/диффуры/ЛДУ с ПК.md",
     "math/диффуры/Задача Коши.md",
     "math/матан/Метрическое пространство.md",
