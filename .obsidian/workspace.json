@@ -11,8 +11,12 @@
             "id": "579aa35a2c12c3b4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "math/диффуры/ДУ первого порядка.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -100,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "math/диффуры/ДУ первого порядка.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,6 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "math/диффуры/ДУ первого порядка.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "math/диффуры/ДУ первого порядка.md"
+              }
             }
           },
           {
