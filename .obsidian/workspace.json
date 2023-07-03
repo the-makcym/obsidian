@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/матан/функциональный анализ/Классификация пространств.md",
+                "file": "math/диффуры/ЛДУ с ПК.md",
                 "mode": "preview",
                 "source": true
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "math/матан/функциональный анализ/Классификация пространств.md",
+                "file": "math/диффуры/ЛДУ с ПК.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/матан/функциональный анализ/Классификация пространств.md",
+                "file": "math/диффуры/ЛДУ с ПК.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "math/матан/функциональный анализ/Классификация пространств.md"
+                "file": "math/диффуры/ЛДУ с ПК.md"
               }
             }
           },
@@ -188,9 +188,9 @@
   },
   "active": "579aa35a2c12c3b4",
   "lastOpenFiles": [
+    "math/матан/функциональный анализ/Классификация пространств.md",
     "math/матан/ряды/Функциональные последовательности.md",
     "math/матан/ряды/Функциональные ряды.md",
-    "math/матан/функциональный анализ/Классификация пространств.md",
     "math/матан/функциональный анализ",
     "math/матан/Без названия.md",
     "math/дискретка/Комбинаторика.md",
