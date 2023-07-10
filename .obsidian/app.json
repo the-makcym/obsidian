@@ -11,9 +11,9 @@
   "vimMode": false,
   "pdfExportSettings": {
     "includeName": true,
-    "pageSize": "Letter",
-    "landscape": false,
-    "margin": "0",
-    "downscalePercent": 100
+    "pageSize": "Legal",
+    "landscape": true,
+    "margin": "1",
+    "downscalePercent": 84
   }
 }
